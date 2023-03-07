@@ -282,6 +282,11 @@
     .bottom-group {
       flex-direction: column;
     }
+    
+    .Share{
+      width: 70vw;
+      
+    }
     .modal {
       width: 70vw;
     }
@@ -310,5 +315,9 @@
     }
     .modal {
       width: 80vw;
+    }
+    .Share{
+      width: 80vw;
+      
     }
   }
